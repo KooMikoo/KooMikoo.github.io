@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: article
 title: "Start Raspberry Pi Headless Mode"
 author: "KooMikoo"
 categories: journal
+sidebar:
+  nav: layouts
 tags: [documentation,setup,raspberry pi]
 image: https://cdn.mos.cms.futurecdn.net/RHC2LzMSx4zS3xHqkeatTH-970-80.png
 ---
