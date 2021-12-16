@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Start Raspberry Pi Headless Mode"
+title: "Start Journey On Raspberry Pi"
 show_title: false
 author: "KooMikoo"
 categories: journal
@@ -13,6 +13,13 @@ article_header:
     src: https://cdn.mos.cms.futurecdn.net/RHC2LzMSx4zS3xHqkeatTH-970-80.png
 ---
 # Start Raspberry Pi Headless Mode
+
+## Story Behind Raspberry Pi
+Raspberry Pi (/paɪ/) is a series of small single-board computers (SBCs) developed in the United Kingdom by the Raspberry Pi Foundation in association with Broadcom. The Raspberry Pi project originally leaned towards the promotion of teaching basic computer science in schools and in developing countries.
+<img class="image image--sm" src="https://projects-static.raspberrypi.org/projects/raspberry-pi-setting-up/0d6033edf45ad2d4185ed05d6cd9a01e2f803034/en/images/pi-plug-in.gif"/>
+Until now Raspberry Pi Foundation or Raspberry Pi Trading realease more type raspberry
+
+## Enable SSH on First Boot
 1. Flash image to your Micro SD Card, eject and plug-in again to PC
 2. Opened `boot` directory and make file `SSH` non-extention.
 3. Eject and mount to raspberry pi then turn on devices.
