@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Start Raspberry Pi Headless Mode"
+show_title: false
 author: "KooMikoo"
 categories: journal
 sidebar:
