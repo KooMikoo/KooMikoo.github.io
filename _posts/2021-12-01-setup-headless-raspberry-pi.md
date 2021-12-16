@@ -7,7 +7,10 @@ categories: journal
 sidebar:
   nav: docs-en
 tags: [documentation,setup,raspberry pi]
-image: https://cdn.mos.cms.futurecdn.net/RHC2LzMSx4zS3xHqkeatTH-970-80.png
+article_header:
+  type: cover
+  image:
+    src: https://cdn.mos.cms.futurecdn.net/RHC2LzMSx4zS3xHqkeatTH-970-80.png
 ---
 # Start Raspberry Pi Headless Mode
 1. Flash image to your Micro SD Card, eject and plug-in again to PC
